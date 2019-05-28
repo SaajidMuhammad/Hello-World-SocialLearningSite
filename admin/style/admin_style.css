@@ -1,0 +1,91 @@
+
+#sidebar{
+	position:fixed;
+	margin-top:75px;
+}
+
+#sidebar a{
+	margin-left:30px;
+	width:200px;
+	border-radius:0px;
+	font-weight:bold;
+	margin-bottom:8px;
+	
+}
+
+#content th{
+	width:120px;
+	text-align:center;
+}
+
+#content td{
+	padding-left:20px;
+}
+
+#content{
+	overflow : scroll;
+}
+
+#login{
+	border : solid black 1px;
+	margin : 100px 300px 0px 300px;
+	padding : 50px;
+	box-shadow : black 2px 2px 2px 2px;
+	background-color:white;
+}
+
+#login_body{
+	background-image: url(../../images/h_home.jpg);
+	
+}
+
+#login input{
+	margin : 0 auto;
+	width : 350px;
+}
+
+#login button{
+	margin-left : 28px;
+	width : 350px;
+	font-weight : bold;
+	
+}
+
+#add_quiz{
+	width: 750px;
+	margin: 0 auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding:30px;
+	background:white;
+	height:750px;
+}
+
+#add_quiz h2{
+	text-align:center;
+	margin: 20px;
+	
+}
+
+#add_quiz input{
+	
+}
+
+#add_books{
+	width: 750px;
+	margin: 0 auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding:30px;
+	height:450px;
+}
+
+#add_books h2{
+	text-align:center;
+	margin: 20px;
+	background:white;
+}
+
+#add_books input{
+	margin-bottom:10px;
+	
+}
+
